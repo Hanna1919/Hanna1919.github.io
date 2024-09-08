@@ -9,6 +9,12 @@ ul{
     background-color: rgb(157, 170, 250);
 }
 p {
-    color: red;
+    background-color: tomato;
+    color: white;
     text-align: left;
+}
+h1 {
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
 }
