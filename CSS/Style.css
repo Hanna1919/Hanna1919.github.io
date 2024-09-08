@@ -1,3 +1,6 @@
+body {
+    background-color: bisque;
+}
 ul{
     list-style-type: none;
     margin: 0;
@@ -5,11 +8,7 @@ ul{
     
     background-color: rgb(157, 170, 250);
 }
-
 p {
     color: red;
     text-align: left;
 }
-body {
-    background-color: bisque;
-  }
