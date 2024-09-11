@@ -13,7 +13,7 @@ h1 {
     color: black;
     text-align: center;
 }
-
+/*begin dropdown menu*/
 .navbar {
     overflow: hidden;
     background-color: black;
@@ -31,8 +31,7 @@ h1 {
 
   .dropdown {
     float: left;
-    width: fit-content;
-    overflow: auto;
+    width: 100%;
   }
   
   .dropdown .dropbtn {
