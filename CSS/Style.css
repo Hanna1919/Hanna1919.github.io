@@ -31,7 +31,7 @@ h1 {
 
   .dropdown {
     float: left;
-    width: 100%;
+    width: 100;
   }
   
   .dropdown .dropbtn {
