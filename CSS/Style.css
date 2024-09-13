@@ -18,7 +18,6 @@ h1 {
     overflow: hidden;
     background-color: black;
     font-family: Arial;
-    padding-block: 14px 16px; /*poging tot balk weghalen*/
   }
   
   .navbar a {
