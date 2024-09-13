@@ -18,6 +18,7 @@ h1 {
     overflow: hidden;
     background-color: black;
     font-family: Arial;
+    display: inline-block;/**/
   }
   
   .navbar a {
