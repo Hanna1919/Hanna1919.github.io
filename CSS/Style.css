@@ -19,7 +19,6 @@ h1 {
     background-color: black;
     font-family: Arial;
     width: 100%;
-    overflow: auto;
   }
   
   .navbar a {
