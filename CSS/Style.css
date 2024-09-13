@@ -18,6 +18,7 @@ h1 {
     overflow: hidden;
     background-color: black;
     font-family: Arial;
+    width: 100%;
   }
   
   .navbar a {
@@ -43,7 +44,7 @@ h1 {
     background-color: inherit;
     font-family: inherit; 
   }
-
+/**/
   .navbar a:hover, .dropdown:hover .dropbtn {
     background-color: red;
   }
