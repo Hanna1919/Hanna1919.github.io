@@ -18,7 +18,7 @@ h1 {
     overflow: hidden;
     background-color: black;
     font-family: Arial;
-    width: auto;
+    padding-block: 14px 16px; /*poging tot balk weghalen*/
   }
   
   .navbar a {
@@ -29,12 +29,12 @@ h1 {
     padding: 14px 16px;
     text-decoration: none;
   }
-
+/*positie dropdown*/
   .dropdown {
     float: left;
     width: 100;
   }
-  
+  /*instellingen dropdown knop*/
   .dropdown .dropbtn {
     font-size: 16px;
     border: none;
