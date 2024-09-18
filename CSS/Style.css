@@ -74,6 +74,7 @@ h1 {
     display: block;
   }/*eind menu*/
   iframe{
+    float: left;
     width: 1000px;
     height: 800px;
     frameborder="no" 
