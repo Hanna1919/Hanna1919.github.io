@@ -81,6 +81,7 @@ h1 {
     float: right;
     width: 700px;
     height: 500px;
-    frameborder="no" 
-    scrolling="no" 
   }
+img{
+  border: solid black 2px;
+}
