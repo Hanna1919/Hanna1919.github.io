@@ -72,4 +72,10 @@ h1 {
   
   .dropdown:hover .dropdown-content {
     display: block;
+  }/*eind menu*/
+  iframe{
+    width: 700;
+    height: 500;
+    frameborder="no" 
+    scrolling="no" 
   }
