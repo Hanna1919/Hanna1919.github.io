@@ -1,3 +1,7 @@
+body{
+  background-color: rgb(184, 253, 243);
+}
+
 ul{
     list-style-type: none;
     margin: 0;
