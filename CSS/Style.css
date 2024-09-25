@@ -49,7 +49,7 @@ h1 {
   }
 /**/
   .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: rgb(173, 229, 255);
+    background-color: rgb(173, 229, 255); /*kleur hover menu*/
   }
 
   .dropdown-content {
@@ -71,7 +71,7 @@ h1 {
   }
   
   .dropdown-content a:hover {
-    background-color: rgb(173, 229, 255);
+    background-color: rgb(173, 229, 255); /*kleur hover menu*/
   }
   
   .dropdown:hover .dropdown-content {
