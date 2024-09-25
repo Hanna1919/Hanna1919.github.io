@@ -71,7 +71,7 @@ h1 {
   }
   
   .dropdown-content a:hover {
-    color: #000;
+    color:white;
     background-color: rgb(132, 189, 215); /*kleur als muis over menu*/
   }
   
