@@ -78,11 +78,12 @@ h1 {
     display: block;
   }/*eind menu*/
 
-  iframe{ /*spelletje binair bonanza*/
+iframe{ /*spelletje binair bonanza*/
     float: right;
     width: 700px;
     height: 500px;
-  }
+}
 img{ /*randje om foto's*/
   border: solid black 1px;
+  
 }
