@@ -77,12 +77,12 @@ h1 {
   .dropdown:hover .dropdown-content {
     display: block;
   }/*eind menu*/
-  
+
   iframe{ /*spelletje binair bonanza*/
     float: right;
     width: 700px;
     height: 500px;
   }
-img{
+img{ /*randje om foto's*/
   border: solid black 1px;
 }
