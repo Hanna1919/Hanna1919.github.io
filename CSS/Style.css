@@ -17,6 +17,16 @@ h1 {
     color: black;
     text-align: center;
 }
+
+iframe{ /*spelletje binair bonanza*/
+  float: right;
+  width: 700px;
+  height: 500px;
+}
+img{ /*randje om foto's*/
+border: solid black 1px;
+}
+
 /*begin dropdown menu*/
 .navbar {
     overflow: hidden;
@@ -78,13 +88,3 @@ h1 {
   .dropdown:hover .dropdown-content {
     display: block;
   }/*eind menu*/
-
-iframe{ /*spelletje binair bonanza*/
-    float: right;
-    width: 700px;
-    height: 500px;
-}
-img{ /*randje om foto's*/
-  border: solid black 1px;
-  
-}
