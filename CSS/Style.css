@@ -26,6 +26,7 @@ iframe{ /*spelletje binair bonanza*/
 
 img{ /*instellingen foto's*/
 border: solid black 1px;/*randje om foto's*/
+float: left;
 }
 
 /*begin dropdown menu*/
