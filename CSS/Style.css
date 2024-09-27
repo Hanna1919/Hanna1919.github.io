@@ -47,6 +47,13 @@ float: left;
   float: middle;
 }
 
+.ASCII {
+  border: solid black 1px;
+  float: middle;
+  height: 200px;
+  width: auto;
+}
+
 /*begin dropdown menu*/
 .navbar {
     overflow: hidden;
