@@ -18,6 +18,10 @@ h1 {
     text-align: center;
 }
 
+footer{
+  background-color:rgb(164, 221, 247) ;
+}
+
 iframe{ /*spelletje binair bonanza*/
   float: right;
   width: 700px;
