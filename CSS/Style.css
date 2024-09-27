@@ -29,6 +29,10 @@ border: solid black 1px;/*randje om foto's*/
 float: left;
 }
 
+.foto{
+  float: right;
+}
+
 /*begin dropdown menu*/
 .navbar {
     overflow: hidden;
