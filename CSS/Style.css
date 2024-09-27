@@ -24,8 +24,8 @@ iframe{ /*spelletje binair bonanza*/
   height: 500px;
 }
 
-img{ /*randje om foto's*/
-border: solid black 1px;
+img{ /*instellingen foto's*/
+border: solid black 1px;/*randje om foto's*/
 }
 
 /*begin dropdown menu*/
