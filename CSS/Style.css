@@ -54,6 +54,13 @@ float: left;
   width: auto;
 }
 
+.compressie{
+  border: solid black 1px;
+  float: middle;
+  height: 230px;
+  width: auto;
+}
+
 /*begin dropdown menu*/
 .navbar {
     overflow: hidden;
