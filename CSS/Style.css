@@ -55,6 +55,9 @@ float: left;
   float: none;
   height: 230px;
   width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /*begin dropdown menu*/
