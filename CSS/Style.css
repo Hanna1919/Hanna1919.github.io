@@ -56,7 +56,7 @@ float: left;
 
 .compressie{
   border: solid black 1px;
-  float: middle;
+  text-align: center;
   height: 230px;
   width: auto;
 }
