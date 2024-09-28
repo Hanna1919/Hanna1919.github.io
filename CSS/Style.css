@@ -9,7 +9,7 @@ ul{
     
     background-color: rgb(157, 170, 250);
 }
-p {
+p { /*instellingen tekst*/
     color: black;
     text-align: center ;
 }
@@ -28,7 +28,7 @@ h2 {
   text-align: left;
 }
 
-footer{
+footer{ /*achtergrondkleur voetnoot*/
   background-color:rgb(164, 221, 247) ;
 }
 
@@ -43,14 +43,14 @@ border: solid black 1px;/*randje om foto's*/
 float: left;
 }
 
-.ASCII {
+.ASCII { /*instellingen afbeelding ASCII*/
   border: solid black 1px;
   float: middle;
   height: 230px;
   width: auto;
 }
 
-.compressie{
+.compressie{ /*instellingen afbeelding compressie*/
   border: solid black 1px;
   float: none;
   height: 230px;
@@ -60,7 +60,7 @@ float: left;
   margin-right: auto;
 }
 
-.afbeelding{
+.afbeelding{ /*instellingen afbeelding bitmap- en vectorafbeeldingen*/
   border: solid black 1px;
   float: none;
   height: 230px;
@@ -71,13 +71,13 @@ float: left;
 }
 
 /*begin dropdown menu*/
-.navbar {
+.navbar { 
     overflow: hidden;
     background-color: black;
     font-family: Arial;
   }
   
-  .navbar a {
+  .navbar a { /*instelingen van de tekst van de menu knop*/
     float: left;
     font-size: 16px;
     color: white;
@@ -85,7 +85,7 @@ float: left;
     padding: 14px 16px;
     text-decoration: none;
   }
-/*positie dropdown*/
+/*positie dropdown menu*/
   .dropdown {
     float: left;
     width: 100;
@@ -100,8 +100,7 @@ float: left;
     background-color: inherit;
     font-family: inherit; 
   }
-/**/
-  .navbar a:hover, .dropdown:hover .dropbtn {
+  .navbar a:hover, .dropdown:hover .dropbtn { 
     background-color: rgb(132, 189, 215); /*kleur als muis over de menu knop beweegd*/
   }
 
@@ -114,7 +113,7 @@ float: left;
     z-index: 1;
   }
   
-  .dropdown-content a {
+  .dropdown-content a { /*instelling tekst van dropdown menu (groote, kleur en positie)*/
     float: none;
     color: white;
     padding: 12px 16px;
@@ -124,7 +123,7 @@ float: left;
   }
   
   .dropdown-content a:hover {
-    color:white;
+    color:white; /*tekstkleur*/
     background-color: rgb(132, 189, 215); /*kleur als de muis over de menu knop beweegd*/
   }
   
