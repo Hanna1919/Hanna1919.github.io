@@ -52,7 +52,7 @@ float: left;
 
 .compressie{
   border: solid black 1px;
-  float: middle;
+  float: none;
   height: 230px;
   width: auto;
 }
